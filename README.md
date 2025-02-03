@@ -1,8 +1,8 @@
-# CoinRoutes Trading Application
+# Crypto Trading View
 
 ## Overview
 
-CoinRoutes application is a comprehensive trading application designed to provide users with real-time price data and trading insights. The application includes various widgets for monitoring trading metrics, such as price charts and order books, and offers a customizable and user-friendly interface.
+Crypto Trading View application is a comprehensive trading application designed to provide users with real-time price data and trading insights. The application includes various widgets for monitoring trading metrics, such as price charts and order books, and offers a customizable and user-friendly interface.
 
 ## Features
 

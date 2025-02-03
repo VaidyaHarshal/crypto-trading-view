@@ -16,7 +16,7 @@ const App = () => {
   return (
     <div className="min-h-screen p-8 bg-slate-900">
       <h1 className="text-4xl font-bold text-white text-center mb-8">
-        CoinRoutes Trading View
+        Crypto Trading View
       </h1>
       <Dropdown onSelectionChange={handleSelectionChange} />
       {selectedPairs.length === 0 ? (

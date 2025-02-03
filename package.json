@@ -1,9 +1,9 @@
 {
-  "name": "coin-routes-application",
+  "name": "crypto-trading-view",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://vaidyaharshal.github.io/coin-routes-application",
+  "homepage": "https://vaidyaharshal.github.io/crypto-trading-view",
   "scripts": {
     "start": "vite",
     "build": "vite build",
