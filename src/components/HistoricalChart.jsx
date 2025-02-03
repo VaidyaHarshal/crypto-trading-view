@@ -35,7 +35,7 @@ const TIME_RANGE_OPTIONS = {
 };
 
 const fetchHistoricalData = async (pair, granularity) => {
-  const url = `https://api.pro.coinbase.com/products/${pair}/candles?granularity=${granularity}`;
+  const url = `https://api.exchange.coinbase.com/products/${pair}/candles?granularity=${granularity}`;
   const response = await fetch(url);
   const data = await response.json();
 
